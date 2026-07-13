@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 
 ## 📁 Структура проекта
+```
 project/
 ├── README.md                   # Документация
 ├── requirements.txt            # Зависимости проекта
@@ -45,6 +46,7 @@ project/
         ├── results/               # Результаты работы методов
         ├── manual_labels.json     # Ручная разметка
         └── benchmark_results.json # Результаты замеров
+```
 
 
 ## 🎯 Использование
